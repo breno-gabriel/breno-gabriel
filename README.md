@@ -1,7 +1,7 @@
 # Welcome ! 🖖🏻
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breno-gabriel/breno-gabriel)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/breno-gabriel/breno-gabriel)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bgml@cim.ufpe.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/breno-gabriel-de-melo-lima-1b458b2a5)
 
 ## Quem sou eu ?! 🤔
