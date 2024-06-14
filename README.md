@@ -12,7 +12,7 @@
 
 🇧🇷 Olá ! Me chamo Breno Gabriel de Melo Lima e sou aluno do curso de graduação em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE). Atualmente me encontro no quinto período da graduação ! 
 
-Apaixonado por tecnologia 💻, progresso 🚀 e novos desafios 💪🏼, atualmente estou resolvendo problema de programação com java, estudando banco de dados, aprendendo SQL e desbravando o fascinante mundo da aprendizagem de máquina 🤓 📖 📈
+Apaixonado por tecnologia 💻, progresso 🚀 e novos desafios 💪🏼, atualmente estou aprendendo React, NestJs e SQL🤓 📖 📈
 
 ## Who i am ?! 🤔
 
